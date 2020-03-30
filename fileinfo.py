@@ -8,3 +8,6 @@ import stat
 import sys
 import time
 
+#第三次修改
+if sys.version_info >= (3,0):
+    raw_input = input
