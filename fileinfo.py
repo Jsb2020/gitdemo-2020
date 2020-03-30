@@ -11,3 +11,6 @@ import time
 #第三次修改
 if sys.version_info >= (3,0):
     raw_input = input
+
+#第四次修改
+file_name = raw_input("Enter a file name: ")
